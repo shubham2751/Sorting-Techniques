@@ -22,3 +22,13 @@ for i in range(len(l)-1):
     l[i], l[min_v] = l[min_v], l[i]
 
 print(l)
+
+# Time Complexity
+
+# ==> BEST ==> O(N^2)
+
+# ==> AVERAGE ==> O(N^2)
+
+# ==> WORST ==> O(N^2)
+
+# SPACE COMPLEXITY ==> O(1) # BECAUSE WE ARE NOT USING ANY ADDITIONAL SPACE FOR PERFORMING OPERATIONS
