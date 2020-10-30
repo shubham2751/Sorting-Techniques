@@ -32,21 +32,12 @@ ans = Insertion_Sort(l)
 print(ans)
 
 
-'''
-l = [7, 2, 4, 1, 5, 3]
-     0  1  2  3  4  5
+# Time Complexity
 
-n = 6
+# ==> BEST ==> O(N)
 
-iter-i-1: # 1==>6-1=5
+# ==> AVERAGE ==> O(N^2)
 
-        value = l[i] = l[1] = 2
+# ==> WORST ==> O(N^2)
 
-        hole = i = 1
-
-        while-j-1: hole > 0 ==> 1 > 0 && l[hole-1] > value ==> l[1-1=0] > 2
-
-                a[]
-
-
-'''
+# SPACE COMPLEXITY ==> O(1) # BECAUSE WE ARE NOT USING ANY ADDITIONAL SPACE FOR PERFORMING OPERATIONS
