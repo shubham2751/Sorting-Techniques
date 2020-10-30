@@ -23,3 +23,13 @@ l = [2, 7, 4, 1, 5, 3, 6]
 ans = Bubble_Sort(l)
 
 print(ans)
+
+# Time Complexity
+
+# ==> BEST ==> O(N)
+
+# ==> AVERAGE ==> O(N^2)
+
+# ==> WORST ==> O(N^2)
+
+# SPACE COMPLEXITY ==> O(1) # BECAUSE WE ARE NOT USING ANY ADDITIONAL SPACE FOR PERFORMING OPERATIONS
