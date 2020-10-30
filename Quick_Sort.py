@@ -43,3 +43,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+# Time Complexity
+
+# ==> BEST ==> O(N LOG N)
+
+# ==> AVERAGE ==> O(N LOG N)
+
+# ==> WORST ==> O(N^2)
+
+# SPACE COMPLEXITY ==> O(1) # BECAUSE WE ARE NOT USING ANY ADDITIONAL SPACE FOR PERFORMING OPERATIONS
